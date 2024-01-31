@@ -1,0 +1,25 @@
+1. What is HTML?
+
+-->	HTML stands for Hyper Text Markup Language. It is a language to display somethings on a web brower. It is used in front end part of a website or web app.
+------------------------------------------------------------------------------------
+
+2. What is CSS?
+
+-->	CSS or Cascading Style Sheets is a language, used to decorate or put style into a document, written in HTML.
+------------------------------------------------------------------------------------
+
+3. What is the difference between front-end and back-end development?
+
+-->	Front-end part of a website is what the user can see or interact with in a web page, or website or web app. Basically, the things which are seen in the website is frontend and writing a code for this specific part is called front-end development. In front-end, we use HTML, CSS and JavaScript.
+	The back-end part is not visible or accesible directly to the user. In this, datas are stored, managed and provided when needed to the user, certain operations are performed. Writing a code for this back-end part is called Back-end development. Java, MERN, MEAN are some technologies or tech stacks, used in back-end development.
+------------------------------------------------------------------------------------
+
+4. What is JavaScript?
+
+-->	JavaScript is a programming language, widely used in both front-end and back-end development.
+------------------------------------------------------------------------------------
+
+5. What is a responsive web design?
+
+-->	Responsive web design is a web development that allows an user to interact with the web page or website. It may or may not contain both front-end and back-end part of development.
+------------------------------------------------------------------------------------
